@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\08. Town Info\\08. Town Info.csproj",
+      "projectUniqueName": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\08. Town Info\\08. Town Info.csproj",
       "projectName": "08. Town Info",
-      "projectPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\08. Town Info\\08. Town Info.csproj",
+      "projectPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\08. Town Info\\08. Town Info.csproj",
       "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\08. Town Info\\obj\\",
+      "outputPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\08. Town Info\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

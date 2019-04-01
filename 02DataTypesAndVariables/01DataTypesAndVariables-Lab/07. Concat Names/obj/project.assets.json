@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\07. Concat Names\\07. Concat Names.csproj",
+      "projectUniqueName": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\07. Concat Names\\07. Concat Names.csproj",
       "projectName": "07. Concat Names",
-      "projectPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\07. Concat Names\\07. Concat Names.csproj",
+      "projectPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\07. Concat Names\\07. Concat Names.csproj",
       "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\07. Concat Names\\obj\\",
+      "outputPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\07. Concat Names\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

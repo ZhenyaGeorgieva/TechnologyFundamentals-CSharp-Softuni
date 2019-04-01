@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+      "projectUniqueName": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
       "projectName": "04. Centuries to Minutes",
-      "projectPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+      "projectPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
       "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\04. Centuries to Minutes\\obj\\",
+      "outputPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\04. Centuries to Minutes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

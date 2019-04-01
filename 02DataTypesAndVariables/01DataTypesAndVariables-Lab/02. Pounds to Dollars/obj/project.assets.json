@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
+      "projectUniqueName": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
       "projectName": "02. Pounds to Dollars",
-      "projectPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
+      "projectPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
       "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\02. Pounds to Dollars\\obj\\",
+      "outputPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\02. Pounds to Dollars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

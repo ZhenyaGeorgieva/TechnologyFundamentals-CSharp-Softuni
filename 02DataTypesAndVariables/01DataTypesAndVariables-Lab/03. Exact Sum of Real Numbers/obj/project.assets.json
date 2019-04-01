@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
       "projectName": "03. Exact Sum of Real Numbers",
-      "projectPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
+      "projectPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\03. Exact Sum of Real Numbers\\03. Exact Sum of Real Numbers.csproj",
       "packagesPath": "C:\\Users\\Andro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andro\\Desktop\\for adding\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\03. Exact Sum of Real Numbers\\obj\\",
+      "outputPath": "C:\\Users\\Andro\\Documents\\GitHub\\TechnologyFundamentals-CSharp-Softuni\\02DataTypesAndVariables\\01DataTypesAndVariables-Lab\\03. Exact Sum of Real Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
