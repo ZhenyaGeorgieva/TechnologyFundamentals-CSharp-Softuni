@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsMoreExercise", "MethodsMoreExercise\MethodsMoreExercise.csproj", "{8732B984-0674-437B-8749-0127F81A7AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Data Types", "01. Data Types\01. Data Types.csproj", "{1060BE07-1C4C-4824-A436-4265634F1FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Center Point", "02. Center Point\02. Center Point.csproj", "{D57F73E1-0444-467A-A74E-97BA49A2C79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longer Line", "03. Longer Line\03. Longer Line.csproj", "{06B8BAEB-6EED-4BC4-B67C-32790D98CAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Tribonacci Sequence", "04. Tribonacci Sequence\04. Tribonacci Sequence.csproj", "{C6DF3C0D-6616-40BD-A08D-1D0B4122D316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiplication Sign", "05. Multiplication Sign\05. Multiplication Sign.csproj", "{C45F5CFF-F009-4795-A15E-F4F8D413ED65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8732B984-0674-437B-8749-0127F81A7AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8732B984-0674-437B-8749-0127F81A7AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8732B984-0674-437B-8749-0127F81A7AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8732B984-0674-437B-8749-0127F81A7AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1060BE07-1C4C-4824-A436-4265634F1FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1060BE07-1C4C-4824-A436-4265634F1FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1060BE07-1C4C-4824-A436-4265634F1FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1060BE07-1C4C-4824-A436-4265634F1FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57F73E1-0444-467A-A74E-97BA49A2C79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57F73E1-0444-467A-A74E-97BA49A2C79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57F73E1-0444-467A-A74E-97BA49A2C79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57F73E1-0444-467A-A74E-97BA49A2C79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B8BAEB-6EED-4BC4-B67C-32790D98CAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B8BAEB-6EED-4BC4-B67C-32790D98CAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B8BAEB-6EED-4BC4-B67C-32790D98CAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B8BAEB-6EED-4BC4-B67C-32790D98CAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DF3C0D-6616-40BD-A08D-1D0B4122D316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DF3C0D-6616-40BD-A08D-1D0B4122D316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DF3C0D-6616-40BD-A08D-1D0B4122D316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DF3C0D-6616-40BD-A08D-1D0B4122D316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45F5CFF-F009-4795-A15E-F4F8D413ED65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45F5CFF-F009-4795-A15E-F4F8D413ED65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45F5CFF-F009-4795-A15E-F4F8D413ED65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45F5CFF-F009-4795-A15E-F4F8D413ED65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B12CCDD2-8177-437E-8885-6972660D483D}
+	EndGlobalSection
+EndGlobal
