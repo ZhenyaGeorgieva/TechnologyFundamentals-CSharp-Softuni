@@ -1,0 +1,44 @@
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csprojResolveAssemblyReference.cache
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfo.cs
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.deps.json
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.json
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.dev.json
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.dll
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.pdb
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.dll
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.deps.json
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.json
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.dev.json
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.deps.json
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.json
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.dev.json
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Andro\Desktop\Софтуни\TechModule2019\C#\12BasicWeb_Exercise\CalculatorExercise\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.deps.json
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.json
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.dev.json
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.pdb
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.dll
+C:\Users\Andro\Desktop\for adding\10BasicWeb\10BasicWeb_Exercise\Calculator\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.pdb
